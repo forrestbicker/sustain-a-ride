@@ -7,10 +7,6 @@ Our app matches users with similar commutes to facilitate carpooling with the mi
 
 Live Demo Website: https://sustain-a-ride.vercel.app/ride
 
-Github Link: https://github.com/dchen327/sustain-a-ride-pub
-
-Demo Video: https://youtu.be/iaGLzAGFTFE
-
 ## Competitive Advantage
 Ride scheduling allows us to optimize user matching ahead of time which means significantly better matches than similar on-demand ride-hailing services. We use a combination of pathfinding algorithms, heuristics, and machine learning to identify matches that minimize commute times, gas mileage, and user inconvenience.
 
